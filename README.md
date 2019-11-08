@@ -19,6 +19,8 @@ Experimente online: [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.s
 
  - *[Experimente!](https://potigol.github.io/tente)* :new:
 
+ - [Respositório para as publicações sobre Potigol](https://potigol.github.io/publicacoes/)
+
 
 Conheça também a biblioteca de jogos 2D [Jerimum](https://potigol.github.io/Jerimum/) :video_game:
 
@@ -47,6 +49,23 @@ Conheça também a biblioteca de jogos 2D [Jerimum](https://potigol.github.io/Je
 Exemplos: https://github.com/potigol/Potigol/wiki/jogos
 
 ## A Linguagem
+
+### Palavras Reservadas
+
+tipos: Inteiro, Real, Texto, Lógico, Logico
+
+métodos​: inverta, cabeça, ordene, Lista, Matriz, Cubo, inteiro, arredonde, texto, real,
+tamanho, posição, posiçao, posicão, posicao, contém, contem, maiúsculo, maiusculo, minúsculo,
+minusculo, inverta, divida, lista, cabeça, cabeca, cauda, último, ultimo, pegue, descarte,
+selecione, mapeie, descarte\_enquanto, pegue\_enquanto, ordene, junte, insira, remova, mutável,
+mutavel, imutável, imutavel, vazia, injete, primeiro, segundo, terceiro, quarto, quinto, sexto,
+sétimo, setimo, oitavo, nono, décimo, decimo.
+
+funções: leia\_inteiro, leia\_inteiros, leia\_real, leia\_reais, leia\_texto, leia\_textos, sen, cos,
+tg, aleatório.
+
+palavras: var, se, senão, senãose, senao, senaose, então, entao, enquanto, faça, faca, de, em, e, escolha, tipo, até, passo, gere, retorne, use.
+
 
 ### Variáveis
 ````scala
